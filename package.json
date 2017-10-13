@@ -1,6 +1,6 @@
 {
   "name": "numbers-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript event to only allow numbers in an input field",
   "main": "dist",
   "scripts": {
