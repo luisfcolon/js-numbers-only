@@ -1,5 +1,5 @@
 {
-  "name": "js-numbers-only",
+  "name": "numbers-only",
   "version": "1.0.0",
   "description": "Javascript event to only allow numbers in an input field",
   "main": "dist",
@@ -15,10 +15,10 @@
     "javascript",
     "events",
     "number",
-    "numbers",
-    "only",
-    "is",
-    "numeric"
+    "numbers only",
+    "form",
+    "input",
+    "is numeric"
   ],
   "author": "Luis Colon <luiscolon62@gmail.com>",
   "license": "MIT",
