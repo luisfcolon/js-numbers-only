@@ -1,0 +1,46 @@
+{
+  "name": "js-numbers-only",
+  "version": "1.0.0",
+  "description": "Javascript event to only allow numbers in an input field",
+  "main": "dist",
+  "scripts": {
+    "test": "./node_modules/jest/bin/jest.js --coverage",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfcolon/js-numbers-only.git"
+  },
+  "keywords": [
+    "javascript",
+    "events",
+    "number",
+    "numbers",
+    "only",
+    "is",
+    "numeric"
+  ],
+  "author": "Luis Colon <luiscolon62@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisfcolon/js-numbers-only/issues"
+  },
+  "homepage": "https://github.com/luisfcolon/js-numbers-only#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^21.0.2",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "coveralls": "^2.13.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "jest": "^21.1.0"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js}",
+      "!dist/**/*.{js}"
+    ]
+  }
+}
