@@ -1,5 +1,10 @@
 # Numbers Only
 
+[![Build Status](https://travis-ci.org/luisfcolon/js-numbers-only.svg?branch=master)](https://travis-ci.org/luisfcolon/js-numbers-only)
+[![Coverage Status](https://coveralls.io/repos/github/luisfcolon/js-numbers-only/badge.svg?branch=master)](https://coveralls.io/github/luisfcolon/js-numbers-only?branch=master)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/luisfcolon/js-numbers-only/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/luisfcolon/js-numbers-only.svg)](https://github.com/luisfcolon/js-numbers-only/issues)
+
 ## Overview
 
 Javascript event handler to only allow numbers and a few special characters.
