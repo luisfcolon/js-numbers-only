@@ -39,7 +39,7 @@ yarn add numbers-only
 
 It works best when you use `numbersOnly` as the event handler for `keydown` events.
 
-```
+```javascript
 import numbersOnly from 'numbers-only';
 
 
