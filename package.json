@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/luisfcolon/js-numbers-only#readme",
   "devDependencies": {
-    "coveralls": "^2.13.1",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0"
   },
@@ -43,6 +42,7 @@
     "@babel/core": "^7.5.5",
     "@babel/polyfill": "^7.4.4",
     "@babel/preset-env": "^7.5.5",
+    "coveralls": "^3.0.6",
     "gulp-uglify": "^3.0.2",
     "jest": "^24.9.0"
   }
