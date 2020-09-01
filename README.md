@@ -1,5 +1,6 @@
 # Numbers Only
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![Build Status](https://travis-ci.org/luisfcolon/js-numbers-only.svg?branch=master)](https://travis-ci.org/luisfcolon/js-numbers-only)
 [![Coverage Status](https://coveralls.io/repos/github/luisfcolon/js-numbers-only/badge.svg?branch=master)](https://coveralls.io/github/luisfcolon/js-numbers-only?branch=master)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/luisfcolon/js-numbers-only/master/LICENSE)
